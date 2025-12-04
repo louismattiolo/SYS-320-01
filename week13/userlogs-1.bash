@@ -14,8 +14,7 @@ function getFailedLogins(){
  echo "$dateAndUser"
 }
 
-# Sending logins as email - Do not forget to change email address
-# to your own email address
+# Sending logins as email  Insert your email if your using my github as a guide
 echo "To: louis.mattiolo@mymail.champlain.edu" > emailform.txt
 echo "Subject: Logins" >> emailform.txt
 getLogins >> emailform.txt
