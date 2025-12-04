@@ -1,0 +1,5 @@
+[2025-12-04 00:45:31] userlogs-1.bash was accessed by root
+[2025-12-04 00:45:34] userlogs-1.bash was accessed by root
+[2025-12-04 00:45:36] userlogs-1.bash was accessed by root
+[2025-12-04 00:45:38] userlogs-1.bash was accessed by root
+[2025-12-04 00:45:40] userlogs-1.bash was accessed by root
