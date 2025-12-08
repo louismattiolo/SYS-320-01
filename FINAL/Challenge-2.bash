@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Usage sudo bash ./Challenge-2.bash access.log IOC.txt
+
 > report.txt  # Clear report file
 
 while read -r ioc; do  # Read each IOC
